@@ -1,5 +1,5 @@
 # Freddie-Mac-Data-Integrity-Analysis
-## Executive Summary
+## Summary
 This project analyzes a 10% stratified sample (377,995 rows, 71 features) of Freddie Mac mortgage loan records to evaluate borrower demographics, regional loan concentration, and financial risk metrics.
 
 ## Key Findings & Data Engineering
