@@ -9,7 +9,7 @@ This project analyzes a 10% stratified sample (377,995 rows, 71 features) of Fre
 
 ## Repository Contents
 - [`FreddieLoanMortgage_code.ipynb`](./FreddieLoanMortgage_code.ipynb): Full Python source code including data cleaning pipelines, demographic profiling, and data visualizations.
-- [`Freddie_Mac_Final_Report.pdf`](./Sergio_Amador's_EDD2_Final_FINALVERSION.pdf): The complete analytical report documenting findings, methodology, and visualizations.
+- [`Freddie_Mac_Final_Report.pdf`](./FreddieLoanMortgage_FinalReport.pdf): The complete analytical report documenting findings, methodology, and visualizations.
 
 ## Tools Used
 - **Languages & Libraries**: Python, Pandas, NumPy, Seaborn, Matplotlib
